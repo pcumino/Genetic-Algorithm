@@ -8,7 +8,7 @@
 //  This files aims to test the implementations built along the research period
 
 // #include "Fibonacci/fibonacci.cpp"
-#include "algo_1/Population.cpp"
+#include "Population.cpp"
 #include <iostream>
 #include <string>
 #include <vector>
